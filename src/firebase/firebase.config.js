@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA0Yijfdgjx9FvyK7FmahRUCZ-M6eIsuV4",
-  authDomain: "easy-shop-1df4d.firebaseapp.com",
-  projectId: "easy-shop-1df4d",
-  storageBucket: "easy-shop-1df4d.appspot.com",
-  messagingSenderId: "769597411111",
-  appId: "1:769597411111:web:f6d305070ebc284634e302"
+  apiKey: "AIzaSyDybP75pb0z327GMsnzwJkf2aAiF_Uwlgs",
+  authDomain: "practic-8bfd9.firebaseapp.com",
+  projectId: "practic-8bfd9",
+  storageBucket: "practic-8bfd9.appspot.com",
+  messagingSenderId: "596465714213",
+  appId: "1:596465714213:web:e82d6458ea078f41916bcc"
 };
 
 
